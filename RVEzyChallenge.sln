@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVEzyChallenge", "RVEzyChallenge\RVEzyChallenge.csproj", "{10E49706-FBB0-4113-BD45-EB99C29976AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVEzyChalengeTests", "RVEzyChalengeTests\RVEzyChalengeTests.csproj", "{CB32FB67-912B-4217-9A3D-5D6EFC2DE75E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E49706-FBB0-4113-BD45-EB99C29976AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E49706-FBB0-4113-BD45-EB99C29976AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E49706-FBB0-4113-BD45-EB99C29976AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E49706-FBB0-4113-BD45-EB99C29976AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB32FB67-912B-4217-9A3D-5D6EFC2DE75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB32FB67-912B-4217-9A3D-5D6EFC2DE75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB32FB67-912B-4217-9A3D-5D6EFC2DE75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB32FB67-912B-4217-9A3D-5D6EFC2DE75E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22ACB85-94FC-4F63-B7A5-F199B4368416}
+	EndGlobalSection
+EndGlobal
